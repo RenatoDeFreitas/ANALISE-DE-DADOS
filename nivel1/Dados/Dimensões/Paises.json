@@ -1,0 +1,1407 @@
+[
+ {
+   "CO_PAIS": 0,
+   "CO_PAIS_ISOA3": "ZZZ",
+   "NO_PAIS": "Não Definido"
+ },
+ {
+   "CO_PAIS": 13,
+   "CO_PAIS_ISOA3": "AFG",
+   "NO_PAIS": "Afeganistão"
+ },
+ {
+   "CO_PAIS": 15,
+   "CO_PAIS_ISOA3": "ALA",
+   "NO_PAIS": "Aland, Ilhas"
+ },
+ {
+   "CO_PAIS": 17,
+   "CO_PAIS_ISOA3": "ALB",
+   "NO_PAIS": "Albânia"
+ },
+ {
+   "CO_PAIS": 20,
+   "CO_PAIS_ISOA3": "ESP",
+   "NO_PAIS": "Alboran-Perejil, Ilhas"
+ },
+ {
+   "CO_PAIS": 23,
+   "CO_PAIS_ISOA3": "DEU",
+   "NO_PAIS": "Alemanha"
+ },
+ {
+   "CO_PAIS": 25,
+   "CO_PAIS_ISOA3": "DEU",
+   "NO_PAIS": "Alemanha Oriental"
+ },
+ {
+   "CO_PAIS": 31,
+   "CO_PAIS_ISOA3": "BFA",
+   "NO_PAIS": "Burkina Faso"
+ },
+ {
+   "CO_PAIS": 37,
+   "CO_PAIS_ISOA3": "AND",
+   "NO_PAIS": "Andorra"
+ },
+ {
+   "CO_PAIS": 40,
+   "CO_PAIS_ISOA3": "AGO",
+   "NO_PAIS": "Angola"
+ },
+ {
+   "CO_PAIS": 41,
+   "CO_PAIS_ISOA3": "AIA",
+   "NO_PAIS": "Anguilla"
+ },
+ {
+   "CO_PAIS": 42,
+   "CO_PAIS_ISOA3": "ATA",
+   "NO_PAIS": "Antártica"
+ },
+ {
+   "CO_PAIS": 43,
+   "CO_PAIS_ISOA3": "ATG",
+   "NO_PAIS": "Antígua e Barbuda"
+ },
+ {
+   "CO_PAIS": 47,
+   "CO_PAIS_ISOA3": "ANT",
+   "NO_PAIS": "Antilhas Holandesas"
+ },
+ {
+   "CO_PAIS": 53,
+   "CO_PAIS_ISOA3": "SAU",
+   "NO_PAIS": "Arábia Saudita"
+ },
+ {
+   "CO_PAIS": 59,
+   "CO_PAIS_ISOA3": "DZA",
+   "NO_PAIS": "Argélia"
+ },
+ {
+   "CO_PAIS": 63,
+   "CO_PAIS_ISOA3": "ARG",
+   "NO_PAIS": "Argentina"
+ },
+ {
+   "CO_PAIS": 64,
+   "CO_PAIS_ISOA3": "ARM",
+   "NO_PAIS": "Armênia"
+ },
+ {
+   "CO_PAIS": 65,
+   "CO_PAIS_ISOA3": "ABW",
+   "NO_PAIS": "Aruba"
+ },
+ {
+   "CO_PAIS": 69,
+   "CO_PAIS_ISOA3": "AUS",
+   "NO_PAIS": "Austrália"
+ },
+ {
+   "CO_PAIS": 72,
+   "CO_PAIS_ISOA3": "AUT",
+   "NO_PAIS": "Áustria"
+ },
+ {
+   "CO_PAIS": 73,
+   "CO_PAIS_ISOA3": "AZE",
+   "NO_PAIS": "Azerbaijão"
+ },
+ {
+   "CO_PAIS": 77,
+   "CO_PAIS_ISOA3": "BHS",
+   "NO_PAIS": "Bahamas"
+ },
+ {
+   "CO_PAIS": 80,
+   "CO_PAIS_ISOA3": "BHR",
+   "NO_PAIS": "Barein"
+ },
+ {
+   "CO_PAIS": 81,
+   "CO_PAIS_ISOA3": "BGD",
+   "NO_PAIS": "Bangladesh"
+ },
+ {
+   "CO_PAIS": 83,
+   "CO_PAIS_ISOA3": "BRB",
+   "NO_PAIS": "Barbados"
+ },
+ {
+   "CO_PAIS": 85,
+   "CO_PAIS_ISOA3": "BLR",
+   "NO_PAIS": "Belarus"
+ },
+ {
+   "CO_PAIS": 87,
+   "CO_PAIS_ISOA3": "BEL",
+   "NO_PAIS": "Bélgica"
+ },
+ {
+   "CO_PAIS": 88,
+   "CO_PAIS_ISOA3": "BLZ",
+   "NO_PAIS": "Belize"
+ },
+ {
+   "CO_PAIS": 90,
+   "CO_PAIS_ISOA3": "BMU",
+   "NO_PAIS": "Bermudas"
+ },
+ {
+   "CO_PAIS": 93,
+   "CO_PAIS_ISOA3": "MMR",
+   "NO_PAIS": "Mianmar"
+ },
+ {
+   "CO_PAIS": 97,
+   "CO_PAIS_ISOA3": "BOL",
+   "NO_PAIS": "Bolívia"
+ },
+ {
+   "CO_PAIS": 98,
+   "CO_PAIS_ISOA3": "BIH",
+   "NO_PAIS": "Bósnia-Herzegovina"
+ },
+ {
+   "CO_PAIS": 99,
+   "CO_PAIS_ISOA3": "BES",
+   "NO_PAIS": "Bonaire, Saint Eustatius e Saba"
+ },
+ {
+   "CO_PAIS": 100,
+   "CO_PAIS_ISOA3": "BRA",
+   "NO_PAIS": "Internação na Zona Franca de Manaus"
+ },
+ {
+   "CO_PAIS": 101,
+   "CO_PAIS_ISOA3": "BWA",
+   "NO_PAIS": "Botsuana"
+ },
+ {
+   "CO_PAIS": 102,
+   "CO_PAIS_ISOA3": "BVT",
+   "NO_PAIS": "Bouvet, Ilha"
+ },
+ {
+   "CO_PAIS": 105,
+   "CO_PAIS_ISOA3": "BRA",
+   "NO_PAIS": "Brasil"
+ },
+ {
+   "CO_PAIS": 108,
+   "CO_PAIS_ISOA3": "BRN",
+   "NO_PAIS": "Brunei"
+ },
+ {
+   "CO_PAIS": 111,
+   "CO_PAIS_ISOA3": "BGR",
+   "NO_PAIS": "Bulgária"
+ },
+ {
+   "CO_PAIS": 115,
+   "CO_PAIS_ISOA3": "BDI",
+   "NO_PAIS": "Burundi"
+ },
+ {
+   "CO_PAIS": 119,
+   "CO_PAIS_ISOA3": "BTN",
+   "NO_PAIS": "Butão"
+ },
+ {
+   "CO_PAIS": 127,
+   "CO_PAIS_ISOA3": "CPV",
+   "NO_PAIS": "Cabo Verde"
+ },
+ {
+   "CO_PAIS": 137,
+   "CO_PAIS_ISOA3": "CYM",
+   "NO_PAIS": "Cayman, Ilhas"
+ },
+ {
+   "CO_PAIS": 141,
+   "CO_PAIS_ISOA3": "KHM",
+   "NO_PAIS": "Camboja"
+ },
+ {
+   "CO_PAIS": 145,
+   "CO_PAIS_ISOA3": "CMR",
+   "NO_PAIS": "Camarões"
+ },
+ {
+   "CO_PAIS": 149,
+   "CO_PAIS_ISOA3": "CAN",
+   "NO_PAIS": "Canadá"
+ },
+ {
+   "CO_PAIS": 150,
+   "CO_PAIS_ISOA3": "GGY",
+   "NO_PAIS": "Canal, Ilhas do (Guernsey)"
+ },
+ {
+   "CO_PAIS": 151,
+   "CO_PAIS_ISOA3": "ESP",
+   "NO_PAIS": "Canárias, Ilhas"
+ },
+ {
+   "CO_PAIS": 152,
+   "CO_PAIS_ISOA3": "GBR",
+   "NO_PAIS": "Canal, Ilhas do (Jersey)"
+ },
+ {
+   "CO_PAIS": 153,
+   "CO_PAIS_ISOA3": "KAZ",
+   "NO_PAIS": "Cazaquistão"
+ },
+ {
+   "CO_PAIS": 154,
+   "CO_PAIS_ISOA3": "QAT",
+   "NO_PAIS": "Catar"
+ },
+ {
+   "CO_PAIS": 158,
+   "CO_PAIS_ISOA3": "CHL",
+   "NO_PAIS": "Chile"
+ },
+ {
+   "CO_PAIS": 160,
+   "CO_PAIS_ISOA3": "CHN",
+   "NO_PAIS": "China"
+ },
+ {
+   "CO_PAIS": 161,
+   "CO_PAIS_ISOA3": "TWN",
+   "NO_PAIS": "Taiwan (Formosa)"
+ },
+ {
+   "CO_PAIS": 163,
+   "CO_PAIS_ISOA3": "CYP",
+   "NO_PAIS": "Chipre"
+ },
+ {
+   "CO_PAIS": 165,
+   "CO_PAIS_ISOA3": "CCK",
+   "NO_PAIS": "Cocos (Keeling), Ilhas"
+ },
+ {
+   "CO_PAIS": 169,
+   "CO_PAIS_ISOA3": "COL",
+   "NO_PAIS": "Colômbia"
+ },
+ {
+   "CO_PAIS": 173,
+   "CO_PAIS_ISOA3": "COM",
+   "NO_PAIS": "Comores"
+ },
+ {
+   "CO_PAIS": 177,
+   "CO_PAIS_ISOA3": "COG",
+   "NO_PAIS": "Congo"
+ },
+ {
+   "CO_PAIS": 183,
+   "CO_PAIS_ISOA3": "COK",
+   "NO_PAIS": "Cook, Ilhas"
+ },
+ {
+   "CO_PAIS": 187,
+   "CO_PAIS_ISOA3": "PRK",
+   "NO_PAIS": "Coreia do Norte"
+ },
+ {
+   "CO_PAIS": 190,
+   "CO_PAIS_ISOA3": "KOR",
+   "NO_PAIS": "Coreia do Sul"
+ },
+ {
+   "CO_PAIS": 193,
+   "CO_PAIS_ISOA3": "CIV",
+   "NO_PAIS": "Costa do Marfim"
+ },
+ {
+   "CO_PAIS": 195,
+   "CO_PAIS_ISOA3": "HRV",
+   "NO_PAIS": "Croácia"
+ },
+ {
+   "CO_PAIS": 196,
+   "CO_PAIS_ISOA3": "CRI",
+   "NO_PAIS": "Costa Rica"
+ },
+ {
+   "CO_PAIS": 198,
+   "CO_PAIS_ISOA3": "KWT",
+   "NO_PAIS": "Coveite (Kuweit)"
+ },
+ {
+   "CO_PAIS": 199,
+   "CO_PAIS_ISOA3": "CUB",
+   "NO_PAIS": "Cuba"
+ },
+ {
+   "CO_PAIS": 200,
+   "CO_PAIS_ISOA3": "CUW",
+   "NO_PAIS": "Curaçao"
+ },
+ {
+   "CO_PAIS": 229,
+   "CO_PAIS_ISOA3": "BEN",
+   "NO_PAIS": "Benin"
+ },
+ {
+   "CO_PAIS": 232,
+   "CO_PAIS_ISOA3": "DNK",
+   "NO_PAIS": "Dinamarca"
+ },
+ {
+   "CO_PAIS": 235,
+   "CO_PAIS_ISOA3": "DMA",
+   "NO_PAIS": "Dominica"
+ },
+ {
+   "CO_PAIS": 237,
+   "CO_PAIS_ISOA3": "ARE",
+   "NO_PAIS": "Dubai"
+ },
+ {
+   "CO_PAIS": 239,
+   "CO_PAIS_ISOA3": "ECU",
+   "NO_PAIS": "Equador"
+ },
+ {
+   "CO_PAIS": 240,
+   "CO_PAIS_ISOA3": "EGY",
+   "NO_PAIS": "Egito"
+ },
+ {
+   "CO_PAIS": 243,
+   "CO_PAIS_ISOA3": "ERI",
+   "NO_PAIS": "Eritreia"
+ },
+ {
+   "CO_PAIS": 244,
+   "CO_PAIS_ISOA3": "ARE",
+   "NO_PAIS": "Emirados Árabes Unidos"
+ },
+ {
+   "CO_PAIS": 245,
+   "CO_PAIS_ISOA3": "ESP",
+   "NO_PAIS": "Espanha"
+ },
+ {
+   "CO_PAIS": 246,
+   "CO_PAIS_ISOA3": "SVN",
+   "NO_PAIS": "Eslovênia"
+ },
+ {
+   "CO_PAIS": 247,
+   "CO_PAIS_ISOA3": "SVK",
+   "NO_PAIS": "Eslováquia"
+ },
+ {
+   "CO_PAIS": 249,
+   "CO_PAIS_ISOA3": "USA",
+   "NO_PAIS": "Estados Unidos"
+ },
+ {
+   "CO_PAIS": 251,
+   "CO_PAIS_ISOA3": "EST",
+   "NO_PAIS": "Estônia"
+ },
+ {
+   "CO_PAIS": 253,
+   "CO_PAIS_ISOA3": "ETH",
+   "NO_PAIS": "Etiópia"
+ },
+ {
+   "CO_PAIS": 255,
+   "CO_PAIS_ISOA3": "FLK",
+   "NO_PAIS": "Falkland (Malvinas)"
+ },
+ {
+   "CO_PAIS": 259,
+   "CO_PAIS_ISOA3": "FRO",
+   "NO_PAIS": "Faroe, Ilhas"
+ },
+ {
+   "CO_PAIS": 267,
+   "CO_PAIS_ISOA3": "PHL",
+   "NO_PAIS": "Filipinas"
+ },
+ {
+   "CO_PAIS": 271,
+   "CO_PAIS_ISOA3": "FIN",
+   "NO_PAIS": "Finlândia"
+ },
+ {
+   "CO_PAIS": 275,
+   "CO_PAIS_ISOA3": "FRA",
+   "NO_PAIS": "França"
+ },
+ {
+   "CO_PAIS": 281,
+   "CO_PAIS_ISOA3": "GAB",
+   "NO_PAIS": "Gabão"
+ },
+ {
+   "CO_PAIS": 285,
+   "CO_PAIS_ISOA3": "GMB",
+   "NO_PAIS": "Gâmbia"
+ },
+ {
+   "CO_PAIS": 289,
+   "CO_PAIS_ISOA3": "GHA",
+   "NO_PAIS": "Gana"
+ },
+ {
+   "CO_PAIS": 291,
+   "CO_PAIS_ISOA3": "GEO",
+   "NO_PAIS": "Geórgia"
+ },
+ {
+   "CO_PAIS": 292,
+   "CO_PAIS_ISOA3": "SGS",
+   "NO_PAIS": "Geórgia do Sul e Sandwich do Sul, Ilhas"
+ },
+ {
+   "CO_PAIS": 293,
+   "CO_PAIS_ISOA3": "GIB",
+   "NO_PAIS": "Gibraltar"
+ },
+ {
+   "CO_PAIS": 297,
+   "CO_PAIS_ISOA3": "GRD",
+   "NO_PAIS": "Granada"
+ },
+ {
+   "CO_PAIS": 301,
+   "CO_PAIS_ISOA3": "GRC",
+   "NO_PAIS": "Grécia"
+ },
+ {
+   "CO_PAIS": 305,
+   "CO_PAIS_ISOA3": "GRL",
+   "NO_PAIS": "Groenlândia"
+ },
+ {
+   "CO_PAIS": 309,
+   "CO_PAIS_ISOA3": "GLP",
+   "NO_PAIS": "Guadalupe"
+ },
+ {
+   "CO_PAIS": 313,
+   "CO_PAIS_ISOA3": "GUM",
+   "NO_PAIS": "Guam"
+ },
+ {
+   "CO_PAIS": 317,
+   "CO_PAIS_ISOA3": "GTM",
+   "NO_PAIS": "Guatemala"
+ },
+ {
+   "CO_PAIS": 321,
+   "CO_PAIS_ISOA3": "GGY",
+   "NO_PAIS": "Guernsey"
+ },
+ {
+   "CO_PAIS": 325,
+   "CO_PAIS_ISOA3": "GUF",
+   "NO_PAIS": "Guiana Francesa"
+ },
+ {
+   "CO_PAIS": 329,
+   "CO_PAIS_ISOA3": "GIN",
+   "NO_PAIS": "Guiné"
+ },
+ {
+   "CO_PAIS": 331,
+   "CO_PAIS_ISOA3": "GNQ",
+   "NO_PAIS": "Guiné Equatorial"
+ },
+ {
+   "CO_PAIS": 334,
+   "CO_PAIS_ISOA3": "GNB",
+   "NO_PAIS": "Guiné-Bissau"
+ },
+ {
+   "CO_PAIS": 337,
+   "CO_PAIS_ISOA3": "GUY",
+   "NO_PAIS": "Guiana"
+ },
+ {
+   "CO_PAIS": 341,
+   "CO_PAIS_ISOA3": "HTI",
+   "NO_PAIS": "Haiti"
+ },
+ {
+   "CO_PAIS": 343,
+   "CO_PAIS_ISOA3": "HMD",
+   "NO_PAIS": "Heard e ilhas mcdonald, Ilha"
+ },
+ {
+   "CO_PAIS": 345,
+   "CO_PAIS_ISOA3": "HND",
+   "NO_PAIS": "Honduras"
+ },
+ {
+   "CO_PAIS": 351,
+   "CO_PAIS_ISOA3": "HKG",
+   "NO_PAIS": "Hong Kong"
+ },
+ {
+   "CO_PAIS": 355,
+   "CO_PAIS_ISOA3": "HUN",
+   "NO_PAIS": "Hungria"
+ },
+ {
+   "CO_PAIS": 357,
+   "CO_PAIS_ISOA3": "YEM",
+   "NO_PAIS": "Iêmen"
+ },
+ {
+   "CO_PAIS": 358,
+   "CO_PAIS_ISOA3": "YMD",
+   "NO_PAIS": "Iêmen Democrático"
+ },
+ {
+   "CO_PAIS": 359,
+   "CO_PAIS_ISOA3": "IMN",
+   "NO_PAIS": "Ilha de Man"
+ },
+ {
+   "CO_PAIS": 361,
+   "CO_PAIS_ISOA3": "IND",
+   "NO_PAIS": "Índia"
+ },
+ {
+   "CO_PAIS": 365,
+   "CO_PAIS_ISOA3": "IDN",
+   "NO_PAIS": "Indonésia"
+ },
+ {
+   "CO_PAIS": 367,
+   "CO_PAIS_ISOA3": "GBR",
+   "NO_PAIS": "Inglaterra"
+ },
+ {
+   "CO_PAIS": 369,
+   "CO_PAIS_ISOA3": "IRQ",
+   "NO_PAIS": "Iraque"
+ },
+ {
+   "CO_PAIS": 372,
+   "CO_PAIS_ISOA3": "IRN",
+   "NO_PAIS": "Irã"
+ },
+ {
+   "CO_PAIS": 375,
+   "CO_PAIS_ISOA3": "IRL",
+   "NO_PAIS": "Irlanda"
+ },
+ {
+   "CO_PAIS": 379,
+   "CO_PAIS_ISOA3": "ISL",
+   "NO_PAIS": "Islândia"
+ },
+ {
+   "CO_PAIS": 383,
+   "CO_PAIS_ISOA3": "ISR",
+   "NO_PAIS": "Israel"
+ },
+ {
+   "CO_PAIS": 386,
+   "CO_PAIS_ISOA3": "ITA",
+   "NO_PAIS": "Itália"
+ },
+ {
+   "CO_PAIS": 388,
+   "CO_PAIS_ISOA3": "SCG",
+   "NO_PAIS": "Iugoslávia"
+ },
+ {
+   "CO_PAIS": 391,
+   "CO_PAIS_ISOA3": "JAM",
+   "NO_PAIS": "Jamaica"
+ },
+ {
+   "CO_PAIS": 393,
+   "CO_PAIS_ISOA3": "ZZZ",
+   "NO_PAIS": "Jersey"
+ },
+ {
+   "CO_PAIS": 396,
+   "CO_PAIS_ISOA3": "USA",
+   "NO_PAIS": "Johnston, Ilhas"
+ },
+ {
+   "CO_PAIS": 399,
+   "CO_PAIS_ISOA3": "JPN",
+   "NO_PAIS": "Japão"
+ },
+ {
+   "CO_PAIS": 403,
+   "CO_PAIS_ISOA3": "JOR",
+   "NO_PAIS": "Jordânia"
+ },
+ {
+   "CO_PAIS": 411,
+   "CO_PAIS_ISOA3": "KIR",
+   "NO_PAIS": "Kiribati"
+ },
+ {
+   "CO_PAIS": 420,
+   "CO_PAIS_ISOA3": "LAO",
+   "NO_PAIS": "Laos"
+ },
+ {
+   "CO_PAIS": 423,
+   "CO_PAIS_ISOA3": "MYS",
+   "NO_PAIS": "Lebuan, Ilhas"
+ },
+ {
+   "CO_PAIS": 426,
+   "CO_PAIS_ISOA3": "LSO",
+   "NO_PAIS": "Lesoto"
+ },
+ {
+   "CO_PAIS": 427,
+   "CO_PAIS_ISOA3": "LVA",
+   "NO_PAIS": "Letônia"
+ },
+ {
+   "CO_PAIS": 431,
+   "CO_PAIS_ISOA3": "LBN",
+   "NO_PAIS": "Líbano"
+ },
+ {
+   "CO_PAIS": 434,
+   "CO_PAIS_ISOA3": "LBR",
+   "NO_PAIS": "Libéria"
+ },
+ {
+   "CO_PAIS": 438,
+   "CO_PAIS_ISOA3": "LBY",
+   "NO_PAIS": "Líbia"
+ },
+ {
+   "CO_PAIS": 440,
+   "CO_PAIS_ISOA3": "LIE",
+   "NO_PAIS": "Liechtenstein"
+ },
+ {
+   "CO_PAIS": 442,
+   "CO_PAIS_ISOA3": "LTU",
+   "NO_PAIS": "Lituânia"
+ },
+ {
+   "CO_PAIS": 445,
+   "CO_PAIS_ISOA3": "LUX",
+   "NO_PAIS": "Luxemburgo"
+ },
+ {
+   "CO_PAIS": 447,
+   "CO_PAIS_ISOA3": "MAC",
+   "NO_PAIS": "Macau"
+ },
+ {
+   "CO_PAIS": 449,
+   "CO_PAIS_ISOA3": "MKD",
+   "NO_PAIS": "Macedônia"
+ },
+ {
+   "CO_PAIS": 450,
+   "CO_PAIS_ISOA3": "MDG",
+   "NO_PAIS": "Madagascar"
+ },
+ {
+   "CO_PAIS": 452,
+   "CO_PAIS_ISOA3": "PRT",
+   "NO_PAIS": "Madeira, Ilha da"
+ },
+ {
+   "CO_PAIS": 455,
+   "CO_PAIS_ISOA3": "MYS",
+   "NO_PAIS": "Malásia"
+ },
+ {
+   "CO_PAIS": 458,
+   "CO_PAIS_ISOA3": "MWI",
+   "NO_PAIS": "Malavi"
+ },
+ {
+   "CO_PAIS": 461,
+   "CO_PAIS_ISOA3": "MDV",
+   "NO_PAIS": "Maldivas"
+ },
+ {
+   "CO_PAIS": 464,
+   "CO_PAIS_ISOA3": "MLI",
+   "NO_PAIS": "Mali"
+ },
+ {
+   "CO_PAIS": 467,
+   "CO_PAIS_ISOA3": "MLT",
+   "NO_PAIS": "Malta"
+ },
+ {
+   "CO_PAIS": 472,
+   "CO_PAIS_ISOA3": "MNP",
+   "NO_PAIS": "Marianas do Norte, Ilhas"
+ },
+ {
+   "CO_PAIS": 474,
+   "CO_PAIS_ISOA3": "MAR",
+   "NO_PAIS": "Marrocos"
+ },
+ {
+   "CO_PAIS": 476,
+   "CO_PAIS_ISOA3": "MHL",
+   "NO_PAIS": "Marshall, Ilhas"
+ },
+ {
+   "CO_PAIS": 477,
+   "CO_PAIS_ISOA3": "MTQ",
+   "NO_PAIS": "Martinica"
+ },
+ {
+   "CO_PAIS": 485,
+   "CO_PAIS_ISOA3": "MUS",
+   "NO_PAIS": "Maurício"
+ },
+ {
+   "CO_PAIS": 488,
+   "CO_PAIS_ISOA3": "MRT",
+   "NO_PAIS": "Mauritânia"
+ },
+ {
+   "CO_PAIS": 489,
+   "CO_PAIS_ISOA3": "ZZZ",
+   "NO_PAIS": "Mayotte"
+ },
+ {
+   "CO_PAIS": 490,
+   "CO_PAIS_ISOA3": "UMI",
+   "NO_PAIS": "Midway, Ilhas"
+ },
+ {
+   "CO_PAIS": 493,
+   "CO_PAIS_ISOA3": "MEX",
+   "NO_PAIS": "México"
+ },
+ {
+   "CO_PAIS": 494,
+   "CO_PAIS_ISOA3": "MDA",
+   "NO_PAIS": "Moldávia"
+ },
+ {
+   "CO_PAIS": 495,
+   "CO_PAIS_ISOA3": "MCO",
+   "NO_PAIS": "Mônaco"
+ },
+ {
+   "CO_PAIS": 497,
+   "CO_PAIS_ISOA3": "MNG",
+   "NO_PAIS": "Mongólia"
+ },
+ {
+   "CO_PAIS": 498,
+   "CO_PAIS_ISOA3": "MNE",
+   "NO_PAIS": "Montenegro"
+ },
+ {
+   "CO_PAIS": 499,
+   "CO_PAIS_ISOA3": "FSM",
+   "NO_PAIS": "Micronésia"
+ },
+ {
+   "CO_PAIS": 501,
+   "CO_PAIS_ISOA3": "MSR",
+   "NO_PAIS": "Montserrat"
+ },
+ {
+   "CO_PAIS": 505,
+   "CO_PAIS_ISOA3": "MOZ",
+   "NO_PAIS": "Moçambique"
+ },
+ {
+   "CO_PAIS": 507,
+   "CO_PAIS_ISOA3": "NAM",
+   "NO_PAIS": "Namíbia"
+ },
+ {
+   "CO_PAIS": 508,
+   "CO_PAIS_ISOA3": "NRU",
+   "NO_PAIS": "Nauru"
+ },
+ {
+   "CO_PAIS": 511,
+   "CO_PAIS_ISOA3": "CXR",
+   "NO_PAIS": "Christmas (Navidad), Ilha"
+ },
+ {
+   "CO_PAIS": 517,
+   "CO_PAIS_ISOA3": "NPL",
+   "NO_PAIS": "Nepal"
+ },
+ {
+   "CO_PAIS": 521,
+   "CO_PAIS_ISOA3": "NIC",
+   "NO_PAIS": "Nicarágua"
+ },
+ {
+   "CO_PAIS": 525,
+   "CO_PAIS_ISOA3": "NER",
+   "NO_PAIS": "Níger"
+ },
+ {
+   "CO_PAIS": 528,
+   "CO_PAIS_ISOA3": "NGA",
+   "NO_PAIS": "Nigéria"
+ },
+ {
+   "CO_PAIS": 531,
+   "CO_PAIS_ISOA3": "NIU",
+   "NO_PAIS": "Niue"
+ },
+ {
+   "CO_PAIS": 535,
+   "CO_PAIS_ISOA3": "NFK",
+   "NO_PAIS": "Norfolk, Ilha"
+ },
+ {
+   "CO_PAIS": 538,
+   "CO_PAIS_ISOA3": "NOR",
+   "NO_PAIS": "Noruega"
+ },
+ {
+   "CO_PAIS": 542,
+   "CO_PAIS_ISOA3": "NCL",
+   "NO_PAIS": "Nova Caledônia"
+ },
+ {
+   "CO_PAIS": 545,
+   "CO_PAIS_ISOA3": "PNG",
+   "NO_PAIS": "Papua Nova Guiné"
+ },
+ {
+   "CO_PAIS": 548,
+   "CO_PAIS_ISOA3": "NZL",
+   "NO_PAIS": "Nova Zelândia"
+ },
+ {
+   "CO_PAIS": 551,
+   "CO_PAIS_ISOA3": "VUT",
+   "NO_PAIS": "Vanuatu"
+ },
+ {
+   "CO_PAIS": 556,
+   "CO_PAIS_ISOA3": "OMN",
+   "NO_PAIS": "Omã"
+ },
+ {
+   "CO_PAIS": 563,
+   "CO_PAIS_ISOA3": "UMI",
+   "NO_PAIS": "Pacífico, Ilhas do (Administração dos EUA)"
+ },
+ {
+   "CO_PAIS": 566,
+   "CO_PAIS_ISOA3": "UMI",
+   "NO_PAIS": "Pacífico, Ilhas do (EUA)"
+ },
+ {
+   "CO_PAIS": 569,
+   "CO_PAIS_ISOA3": "UMI",
+   "NO_PAIS": "Pacífico, Ilhas do (Território Fideicomisso EUA)"
+ },
+ {
+   "CO_PAIS": 573,
+   "CO_PAIS_ISOA3": "NLD",
+   "NO_PAIS": "Países Baixos (Holanda)"
+ },
+ {
+   "CO_PAIS": 575,
+   "CO_PAIS_ISOA3": "PLW",
+   "NO_PAIS": "Palau"
+ },
+ {
+   "CO_PAIS": 576,
+   "CO_PAIS_ISOA3": "PAK",
+   "NO_PAIS": "Paquistão"
+ },
+ {
+   "CO_PAIS": 578,
+   "CO_PAIS_ISOA3": "PSE",
+   "NO_PAIS": "Palestina"
+ },
+ {
+   "CO_PAIS": 580,
+   "CO_PAIS_ISOA3": "PAN",
+   "NO_PAIS": "Panamá"
+ },
+ {
+   "CO_PAIS": 583,
+   "CO_PAIS_ISOA3": "PNG",
+   "NO_PAIS": "Papua, Território de"
+ },
+ {
+   "CO_PAIS": 586,
+   "CO_PAIS_ISOA3": "PRY",
+   "NO_PAIS": "Paraguai"
+ },
+ {
+   "CO_PAIS": 589,
+   "CO_PAIS_ISOA3": "PER",
+   "NO_PAIS": "Peru"
+ },
+ {
+   "CO_PAIS": 593,
+   "CO_PAIS_ISOA3": "PCN",
+   "NO_PAIS": "Pitcairn"
+ },
+ {
+   "CO_PAIS": 599,
+   "CO_PAIS_ISOA3": "PYF",
+   "NO_PAIS": "Polinésia Francesa"
+ },
+ {
+   "CO_PAIS": 603,
+   "CO_PAIS_ISOA3": "POL",
+   "NO_PAIS": "Polônia"
+ },
+ {
+   "CO_PAIS": 607,
+   "CO_PAIS_ISOA3": "PRT",
+   "NO_PAIS": "Portugal"
+ },
+ {
+   "CO_PAIS": 611,
+   "CO_PAIS_ISOA3": "PRI",
+   "NO_PAIS": "Porto Rico"
+ },
+ {
+   "CO_PAIS": 623,
+   "CO_PAIS_ISOA3": "KEN",
+   "NO_PAIS": "Quênia"
+ },
+ {
+   "CO_PAIS": 625,
+   "CO_PAIS_ISOA3": "KGZ",
+   "NO_PAIS": "Quirguistão"
+ },
+ {
+   "CO_PAIS": 628,
+   "CO_PAIS_ISOA3": "GBR",
+   "NO_PAIS": "Reino Unido"
+ },
+ {
+   "CO_PAIS": 640,
+   "CO_PAIS_ISOA3": "CAF",
+   "NO_PAIS": "República Centro-Africana"
+ },
+ {
+   "CO_PAIS": 647,
+   "CO_PAIS_ISOA3": "DOM",
+   "NO_PAIS": "República Dominicana"
+ },
+ {
+   "CO_PAIS": 660,
+   "CO_PAIS_ISOA3": "REU",
+   "NO_PAIS": "Reunião"
+ },
+ {
+   "CO_PAIS": 665,
+   "CO_PAIS_ISOA3": "ZWE",
+   "NO_PAIS": "Zimbábue"
+ },
+ {
+   "CO_PAIS": 670,
+   "CO_PAIS_ISOA3": "ROU",
+   "NO_PAIS": "Romênia"
+ },
+ {
+   "CO_PAIS": 675,
+   "CO_PAIS_ISOA3": "RWA",
+   "NO_PAIS": "Ruanda"
+ },
+ {
+   "CO_PAIS": 676,
+   "CO_PAIS_ISOA3": "RUS",
+   "NO_PAIS": "Rússia"
+ },
+ {
+   "CO_PAIS": 677,
+   "CO_PAIS_ISOA3": "SLB",
+   "NO_PAIS": "Salomão, Ilhas"
+ },
+ {
+   "CO_PAIS": 678,
+   "CO_PAIS_ISOA3": "KNA",
+   "NO_PAIS": "Saint Kitts e Nevis"
+ },
+ {
+   "CO_PAIS": 685,
+   "CO_PAIS_ISOA3": "ESH",
+   "NO_PAIS": "Saara Ocidental"
+ },
+ {
+   "CO_PAIS": 687,
+   "CO_PAIS_ISOA3": "SLV",
+   "NO_PAIS": "El Salvador"
+ },
+ {
+   "CO_PAIS": 690,
+   "CO_PAIS_ISOA3": "WSM",
+   "NO_PAIS": "Samoa"
+ },
+ {
+   "CO_PAIS": 691,
+   "CO_PAIS_ISOA3": "ASM",
+   "NO_PAIS": "Samoa Americana"
+ },
+ {
+   "CO_PAIS": 693,
+   "CO_PAIS_ISOA3": "BLM",
+   "NO_PAIS": "São Bartolomeu"
+ },
+ {
+   "CO_PAIS": 695,
+   "CO_PAIS_ISOA3": "KNA",
+   "NO_PAIS": "São Cristóvão e Névis"
+ },
+ {
+   "CO_PAIS": 697,
+   "CO_PAIS_ISOA3": "SMR",
+   "NO_PAIS": "San Marino"
+ },
+ {
+   "CO_PAIS": 698,
+   "CO_PAIS_ISOA3": "ZZZ",
+   "NO_PAIS": "São Martinho, Ilha de (parte francesa)"
+ },
+ {
+   "CO_PAIS": 699,
+   "CO_PAIS_ISOA3": "SXM",
+   "NO_PAIS": "Sint Maarten"
+ },
+ {
+   "CO_PAIS": 700,
+   "CO_PAIS_ISOA3": "SPM",
+   "NO_PAIS": "São Pedro e Miquelon"
+ },
+ {
+   "CO_PAIS": 705,
+   "CO_PAIS_ISOA3": "VCT",
+   "NO_PAIS": "São Vicente e Granadinas"
+ },
+ {
+   "CO_PAIS": 710,
+   "CO_PAIS_ISOA3": "SHN",
+   "NO_PAIS": "Santa Helena"
+ },
+ {
+   "CO_PAIS": 715,
+   "CO_PAIS_ISOA3": "LCA",
+   "NO_PAIS": "Santa Lúcia"
+ },
+ {
+   "CO_PAIS": 720,
+   "CO_PAIS_ISOA3": "STP",
+   "NO_PAIS": "São Tomé e Príncipe"
+ },
+ {
+   "CO_PAIS": 728,
+   "CO_PAIS_ISOA3": "SEN",
+   "NO_PAIS": "Senegal"
+ },
+ {
+   "CO_PAIS": 731,
+   "CO_PAIS_ISOA3": "SYC",
+   "NO_PAIS": "Seicheles"
+ },
+ {
+   "CO_PAIS": 735,
+   "CO_PAIS_ISOA3": "SLE",
+   "NO_PAIS": "Serra Leoa"
+ },
+ {
+   "CO_PAIS": 737,
+   "CO_PAIS_ISOA3": "SRB",
+   "NO_PAIS": "Sérvia"
+ },
+ {
+   "CO_PAIS": 741,
+   "CO_PAIS_ISOA3": "SGP",
+   "NO_PAIS": "Cingapura"
+ },
+ {
+   "CO_PAIS": 744,
+   "CO_PAIS_ISOA3": "SYR",
+   "NO_PAIS": "Síria"
+ },
+ {
+   "CO_PAIS": 748,
+   "CO_PAIS_ISOA3": "SOM",
+   "NO_PAIS": "Somália"
+ },
+ {
+   "CO_PAIS": 750,
+   "CO_PAIS_ISOA3": "LKA",
+   "NO_PAIS": "Sri Lanka"
+ },
+ {
+   "CO_PAIS": 754,
+   "CO_PAIS_ISOA3": "SWZ",
+   "NO_PAIS": "Suazilândia"
+ },
+ {
+   "CO_PAIS": 755,
+   "CO_PAIS_ISOA3": "SJM",
+   "NO_PAIS": "Svalbard e Jan Mayen"
+ },
+ {
+   "CO_PAIS": 756,
+   "CO_PAIS_ISOA3": "ZAF",
+   "NO_PAIS": "África do Sul"
+ },
+ {
+   "CO_PAIS": 759,
+   "CO_PAIS_ISOA3": "SDN",
+   "NO_PAIS": "Sudão"
+ },
+ {
+   "CO_PAIS": 760,
+   "CO_PAIS_ISOA3": "SSD",
+   "NO_PAIS": "Sudão do Sul"
+ },
+ {
+   "CO_PAIS": 764,
+   "CO_PAIS_ISOA3": "SWE",
+   "NO_PAIS": "Suécia"
+ },
+ {
+   "CO_PAIS": 767,
+   "CO_PAIS_ISOA3": "CHE",
+   "NO_PAIS": "Suíça"
+ },
+ {
+   "CO_PAIS": 770,
+   "CO_PAIS_ISOA3": "SUR",
+   "NO_PAIS": "Suriname"
+ },
+ {
+   "CO_PAIS": 772,
+   "CO_PAIS_ISOA3": "TJK",
+   "NO_PAIS": "Tadjiquistão"
+ },
+ {
+   "CO_PAIS": 776,
+   "CO_PAIS_ISOA3": "THA",
+   "NO_PAIS": "Tailândia"
+ },
+ {
+   "CO_PAIS": 780,
+   "CO_PAIS_ISOA3": "TZA",
+   "NO_PAIS": "Tanzânia"
+ },
+ {
+   "CO_PAIS": 781,
+   "CO_PAIS_ISOA3": "ATF",
+   "NO_PAIS": "Terras Austrais Francesas"
+ },
+ {
+   "CO_PAIS": 782,
+   "CO_PAIS_ISOA3": "IOT",
+   "NO_PAIS": "Território Britânico do Oceano Índico"
+ },
+ {
+   "CO_PAIS": 783,
+   "CO_PAIS_ISOA3": "DJI",
+   "NO_PAIS": "Djibuti"
+ },
+ {
+   "CO_PAIS": 785,
+   "CO_PAIS_ISOA3": "ZZZ",
+   "NO_PAIS": "Território da Alta Comissão do Pacífico Ocidental"
+ },
+ {
+   "CO_PAIS": 786,
+   "CO_PAIS_ISOA3": "GBR",
+   "NO_PAIS": "Território Antártico Britânico"
+ },
+ {
+   "CO_PAIS": 788,
+   "CO_PAIS_ISOA3": "TCD",
+   "NO_PAIS": "Chade"
+ },
+ {
+   "CO_PAIS": 790,
+   "CO_PAIS_ISOA3": "CSK",
+   "NO_PAIS": "Tchecoslováquia"
+ },
+ {
+   "CO_PAIS": 791,
+   "CO_PAIS_ISOA3": "CZE",
+   "NO_PAIS": "Tcheca, República"
+ },
+ {
+   "CO_PAIS": 795,
+   "CO_PAIS_ISOA3": "TLS",
+   "NO_PAIS": "Timor Leste"
+ },
+ {
+   "CO_PAIS": 800,
+   "CO_PAIS_ISOA3": "TGO",
+   "NO_PAIS": "Togo"
+ },
+ {
+   "CO_PAIS": 805,
+   "CO_PAIS_ISOA3": "TKL",
+   "NO_PAIS": "Toquelau"
+ },
+ {
+   "CO_PAIS": 810,
+   "CO_PAIS_ISOA3": "TON",
+   "NO_PAIS": "Tonga"
+ },
+ {
+   "CO_PAIS": 815,
+   "CO_PAIS_ISOA3": "TTO",
+   "NO_PAIS": "Trinidad e Tobago"
+ },
+ {
+   "CO_PAIS": 820,
+   "CO_PAIS_ISOA3": "TUN",
+   "NO_PAIS": "Tunísia"
+ },
+ {
+   "CO_PAIS": 823,
+   "CO_PAIS_ISOA3": "TCA",
+   "NO_PAIS": "Turcas e Caicos, Ilhas"
+ },
+ {
+   "CO_PAIS": 824,
+   "CO_PAIS_ISOA3": "TKM",
+   "NO_PAIS": "Turcomenistão"
+ },
+ {
+   "CO_PAIS": 827,
+   "CO_PAIS_ISOA3": "TUR",
+   "NO_PAIS": "Turquia"
+ },
+ {
+   "CO_PAIS": 828,
+   "CO_PAIS_ISOA3": "TUV",
+   "NO_PAIS": "Tuvalu"
+ },
+ {
+   "CO_PAIS": 831,
+   "CO_PAIS_ISOA3": "UKR",
+   "NO_PAIS": "Ucrânia"
+ },
+ {
+   "CO_PAIS": 833,
+   "CO_PAIS_ISOA3": "UGA",
+   "NO_PAIS": "Uganda"
+ },
+ {
+   "CO_PAIS": 840,
+   "CO_PAIS_ISOA3": "ZZZ",
+   "NO_PAIS": "União das Repúblicas Socialistas Soviéticas"
+ },
+ {
+   "CO_PAIS": 845,
+   "CO_PAIS_ISOA3": "URY",
+   "NO_PAIS": "Uruguai"
+ },
+ {
+   "CO_PAIS": 847,
+   "CO_PAIS_ISOA3": "UZB",
+   "NO_PAIS": "Uzbequistão"
+ },
+ {
+   "CO_PAIS": 848,
+   "CO_PAIS_ISOA3": "VAT",
+   "NO_PAIS": "Vaticano"
+ },
+ {
+   "CO_PAIS": 850,
+   "CO_PAIS_ISOA3": "VEN",
+   "NO_PAIS": "Venezuela"
+ },
+ {
+   "CO_PAIS": 858,
+   "CO_PAIS_ISOA3": "VNM",
+   "NO_PAIS": "Vietnã"
+ },
+ {
+   "CO_PAIS": 863,
+   "CO_PAIS_ISOA3": "VGB",
+   "NO_PAIS": "Virgens, Ilhas (Britânicas)"
+ },
+ {
+   "CO_PAIS": 866,
+   "CO_PAIS_ISOA3": "VIR",
+   "NO_PAIS": "Virgens, Ilhas (Americanas)"
+ },
+ {
+   "CO_PAIS": 870,
+   "CO_PAIS_ISOA3": "FJI",
+   "NO_PAIS": "Fiji"
+ },
+ {
+   "CO_PAIS": 873,
+   "CO_PAIS_ISOA3": "USA",
+   "NO_PAIS": "Wake, Ilha"
+ },
+ {
+   "CO_PAIS": 875,
+   "CO_PAIS_ISOA3": "WLF",
+   "NO_PAIS": "Wallis e Futuna, Ilhas"
+ },
+ {
+   "CO_PAIS": 888,
+   "CO_PAIS_ISOA3": "COD",
+   "NO_PAIS": "Congo, República Democrática"
+ },
+ {
+   "CO_PAIS": 890,
+   "CO_PAIS_ISOA3": "ZMB",
+   "NO_PAIS": "Zâmbia"
+ },
+ {
+   "CO_PAIS": 895,
+   "CO_PAIS_ISOA3": "PCZ",
+   "NO_PAIS": "Zona do Canal do Panamá"
+ },
+ {
+   "CO_PAIS": 990,
+   "CO_PAIS_ISOA3": "ZZZ",
+   "NO_PAIS": "Provisão de Navios e Aeronaves"
+ },
+ {
+   "CO_PAIS": 994,
+   "CO_PAIS_ISOA3": "ZZZ",
+   "NO_PAIS": "A Designar"
+ },
+ {
+   "CO_PAIS": 995,
+   "CO_PAIS_ISOA3": "ZZZ",
+   "NO_PAIS": "Bancos Centrais"
+ },
+ {
+   "CO_PAIS": 997,
+   "CO_PAIS_ISOA3": "ZZZ",
+   "NO_PAIS": "Organizações Internacionais"
+ },
+ {
+   "CO_PAIS": 998,
+   "CO_PAIS_ISOA3": "ZZZ",
+   "NO_PAIS": "Sem informação"
+ },
+ {
+   "CO_PAIS": 999,
+   "CO_PAIS_ISOA3": "ZZZ",
+   "NO_PAIS": "Não Declarados"
+ }
+]
